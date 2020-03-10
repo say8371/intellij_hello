@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Merge complete");
         System.out.println("Hello! Local repository");
 	System.out.println("Hello! Github");
+	System.out.println("Hello! git pull");
     }
 }
